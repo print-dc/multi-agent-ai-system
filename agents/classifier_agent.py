@@ -1,5 +1,3 @@
-# agents/classifier_agent.py
-
 import json
 
 def classify_input(input_text):
