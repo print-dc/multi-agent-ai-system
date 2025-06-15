@@ -1,8 +1,7 @@
-# agents/json_agent.py
 
 import json
 
-# Define a simple target schema (keys expected)
+
 TARGET_SCHEMA = {
     "id": str,
     "customer": str,
